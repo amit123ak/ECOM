@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-26T16:54:09 IST" name="Default suite" finished-at="2023-03-26T17:01:12 IST" duration-ms="422966">
+    <groups>
+    </groups>
+    <test started-at="2023-03-26T16:54:09 IST" name="Default test" finished-at="2023-03-26T17:01:12 IST" duration-ms="422966">
+      <class name="com.ibm.ecom.testcases.MethodTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:54:09 IST" name="setup" finished-at="2023-03-26T16:54:35 IST" duration-ms="26081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup(java.lang.String,java.lang.String)[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:54:35 IST" name="signup" data-provider="testdata" finished-at="2023-03-26T16:54:56 IST" duration-ms="20874" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amitkumargondcse@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amitkumar@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:54:56 IST" name="teardown" finished-at="2023-03-26T16:54:56 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:54:56 IST" name="setup" finished-at="2023-03-26T16:55:15 IST" duration-ms="18875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup(java.lang.String,java.lang.String)[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:55:15 IST" name="signup" data-provider="testdata" finished-at="2023-03-26T16:55:36 IST" duration-ms="20454" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amitkumargondcse@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amitkumar@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:55:36 IST" name="teardown" finished-at="2023-03-26T16:55:36 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:55:36 IST" name="setup" finished-at="2023-03-26T16:55:54 IST" duration-ms="18184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup(java.lang.String,java.lang.String)[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:55:54 IST" name="signup" data-provider="testdata" finished-at="2023-03-26T16:56:15 IST" duration-ms="20749" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amitkumargondcse@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amitkumar@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:56:15 IST" name="teardown" finished-at="2023-03-26T16:56:15 IST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:56:15 IST" name="setup" finished-at="2023-03-26T16:56:39 IST" duration-ms="23672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup(java.lang.String,java.lang.String)[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:56:39 IST" name="signup" data-provider="testdata" finished-at="2023-03-26T16:57:00 IST" duration-ms="21099" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amitkumargondcse@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amitkumar@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:57:00 IST" name="teardown" finished-at="2023-03-26T16:57:00 IST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:57:00 IST" name="setup" finished-at="2023-03-26T16:57:18 IST" duration-ms="18013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup(java.lang.String,java.lang.String)[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:57:18 IST" name="signup" data-provider="testdata" finished-at="2023-03-26T16:57:39 IST" duration-ms="20792" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amitkumargondcse@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amitkumar@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:57:39 IST" name="teardown" finished-at="2023-03-26T16:57:39 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:57:39 IST" name="setup" finished-at="2023-03-26T16:58:00 IST" duration-ms="21226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup(java.lang.String,java.lang.String)[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:58:00 IST" name="signup" data-provider="testdata" finished-at="2023-03-26T16:58:22 IST" duration-ms="21864" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amitkumargondcse@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amitkumar@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:58:22 IST" name="teardown" finished-at="2023-03-26T16:58:22 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:58:22 IST" name="setup" finished-at="2023-03-26T16:58:42 IST" duration-ms="19991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup(java.lang.String,java.lang.String)[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:58:42 IST" name="signup" data-provider="testdata" finished-at="2023-03-26T16:59:05 IST" duration-ms="22688" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amitkumargondcse@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amitkumar@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:59:05 IST" name="teardown" finished-at="2023-03-26T16:59:05 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:59:05 IST" name="setup" finished-at="2023-03-26T16:59:26 IST" duration-ms="20953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup(java.lang.String,java.lang.String)[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:59:26 IST" name="signup" data-provider="testdata" finished-at="2023-03-26T16:59:47 IST" duration-ms="21546" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amitkumargondcse@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amitkumar@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:59:47 IST" name="teardown" finished-at="2023-03-26T16:59:47 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T16:59:47 IST" name="setup" finished-at="2023-03-26T17:00:08 IST" duration-ms="20414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup(java.lang.String,java.lang.String)[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T17:00:08 IST" name="signup" data-provider="testdata" finished-at="2023-03-26T17:00:29 IST" duration-ms="20985" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amitkumargondcse@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amitkumar@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T17:00:29 IST" name="teardown" finished-at="2023-03-26T17:00:29 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T17:00:29 IST" name="setup" finished-at="2023-03-26T17:00:50 IST" duration-ms="21231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup(java.lang.String,java.lang.String)[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T17:00:50 IST" name="signup" data-provider="testdata" finished-at="2023-03-26T17:01:12 IST" duration-ms="21853" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amitkumargondcse@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amitkumar@123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ibm.ecom.testcases.MethodTest@3427b02d]" started-at="2023-03-26T17:01:12 IST" name="teardown" finished-at="2023-03-26T17:01:12 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ibm.ecom.testcases.MethodTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
