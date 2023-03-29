@@ -4,7 +4,9 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Properties;
+import java.util.logging.Logger;
 
+import org.apache.logging.log4j.LogManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -24,10 +26,12 @@ public class BaseClass {
 	public static Properties loc=new Properties();
 	public static FileReader fr;
 	public static FileReader fr1;
-	
+	org.apache.logging.log4j.Logger logger = LogManager.getLogger(BaseClass.class.getName());
+
 	@BeforeMethod
 	public void setup() throws IOException
 	{
+		
 		if(driver==null)
 	    {
 		fr=new  FileReader("./configFile/config.properties");
@@ -39,11 +43,15 @@ public class BaseClass {
 		if(prop.getProperty("browser").equalsIgnoreCase("chrome"))
 		{ 
 		 WebDriverManager.chromedriver().setup();
+		 
 		 driver=new ChromeDriver();
 		// driver.get(prop.getProperty("testurl"));
+		 logger.debug("chrome got Intilize");
 	    
 		 driver.manage().window().maximize();
+		 logger.debug("Maxiumize Brower");
 		 driver.get(prop.getProperty("testurl"));
+		 logger.debug("nevigate to the url");
 		}
 		else if(prop.getProperty("browser").equalsIgnoreCase("firefox"))
 		{

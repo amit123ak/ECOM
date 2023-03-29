@@ -1,0 +1,4 @@
+12:47:45.008 [main] DEBUG com.ibm.ecom.testcases.MethodTest - click on sign button 
+12:47:53.013 [main] ERROR com.ibm.ecom.testcases.MethodTest - error during sigining
+12:47:54.545 [main] DEBUG com.ibm.ecom.base.BaseClass - chrome got Intilize
+12:47:54.665 [main] DEBUG com.ibm.ecom.base.BaseClass - Maxiumize Brower

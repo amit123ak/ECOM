@@ -1,0 +1,7 @@
+12:47:06.058 [main] DEBUG com.ibm.ecom.base.BaseClass - chrome got Intilize
+12:47:06.177 [main] DEBUG com.ibm.ecom.base.BaseClass - Maxiumize Brower
+12:47:30.207 [main] DEBUG com.ibm.ecom.base.BaseClass - nevigate to the url
+12:47:34.268 [main] DEBUG com.ibm.ecom.testcases.MethodTest - click on sign button
+12:47:35.561 [main] DEBUG com.ibm.ecom.testcases.MethodTest - typing user name
+12:47:36.696 [main] DEBUG com.ibm.ecom.testcases.MethodTest - click on next button
+12:47:40.901 [main] DEBUG com.ibm.ecom.testcases.MethodTest - field password 
